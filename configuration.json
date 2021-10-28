@@ -1,0 +1,12 @@
+{
+"model": [
+  {
+  "name": "location",
+  "field" : [
+    ["id", "integer", "ID", "required"],
+    ["name", "string", "Name", "required"],
+    ["status", "integer", "Status", "required"]
+  ]
+  }  
+]
+}
